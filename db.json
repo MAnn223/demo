@@ -1,1 +1,5 @@
-{"id":21,"email":"thisisanemail@email.com","name":"bob","totalSteps":0,"goalSteps":10000}
+{
+  "id":21,
+  "email":"thisisanemail@email.com",
+  "name":"bob"
+}
