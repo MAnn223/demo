@@ -1,1 +1,1 @@
-{"id":21,"email":"thisisanemail@email.com","password":"safepassword","name":"bob","dob":"2000-01-01T08:00:00.000+00:00","height":90,"weight":10.0,"totalSteps":0,"stats":{},"age":23,"goalSteps":10000}
+{"id":21,"email":"thisisanemail@email.com","name":"bob","totalSteps":0,"goalSteps":10000}
